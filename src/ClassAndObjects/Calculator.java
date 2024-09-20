@@ -10,7 +10,7 @@ public class Calculator {
         this.num2 = b;
     }
     public static void add(int a, int b)
-     {
+     { // example of static method 
         a=10;
         b=20;
         System.out.println(a+b);
