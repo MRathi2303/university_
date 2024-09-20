@@ -7,6 +7,8 @@ import java.util.*;
 public class Array_first {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
+        sc.close();
 
         int[] arr = new int[5];
 
