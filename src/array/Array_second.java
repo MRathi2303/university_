@@ -22,5 +22,6 @@ public class Array_second {
             sum+=arr[i];
         }
         System.out.println("sum of all the elements of arrays:" + sum);
+        Sc.close();
      }
 }

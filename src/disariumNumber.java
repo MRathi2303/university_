@@ -27,6 +27,7 @@ public class disariumNumber {
         }else {
             System.out.println("not a disarium number");
         }
+        sc.close();
 
         }
         }
