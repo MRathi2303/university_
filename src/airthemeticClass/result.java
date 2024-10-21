@@ -1,5 +1,4 @@
-import airthemeticClass.addition;
-import airthemeticClass.subtraction;
+package airthemeticClass;
 
 public class result {
 
@@ -14,13 +13,13 @@ public class result {
 
         int sum = addition.sum();
 
-        System.out.println("airthemeticClass.addition of a and b: "+sum);
+        System.out.println("addition of a and b: "+sum);
 
         subtraction subtraction =new subtraction(); // creating object out of subtraction class
 
         subtraction.setNum1(a,b);
 
-        System.out.println("airthemeticClass.subtraction of a and b : "+subtraction.sub());
+        System.out.println("subtraction of a and b : "+subtraction.sub());
 
 
 
