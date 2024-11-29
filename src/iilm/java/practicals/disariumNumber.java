@@ -1,3 +1,5 @@
+package iilm.java.practicals;
+
 import java.util.Scanner;
 public class disariumNumber {
     public static void main(String[] args) {
